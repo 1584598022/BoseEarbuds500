@@ -1,0 +1,9 @@
+<INDEX REVISION="01.00.00">
+<DEVICE ID="0x402D" PRODUCTNAME="Earbuds 500" USE_CLOUD="0">
+<HARDWARE REVISION="01.00.00">
+<RELEASE HTTPHOST="ota.api.bose.cn" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="1.0.7-620b71c" URLPATH="/ced/bose_music_china/revel/">
+<IMAGE CRC="0x5C0A56DC" FILENAME="revel_2x1_rom_spin_encrypted_prod_1.0.7-620b71c.bin" LENGTH="5963210" NOFORCE="1" REVISION="1.0.7-620b71c" SUBID="0"/>
+</RELEASE>
+</HARDWARE>
+</DEVICE>
+</INDEX>
